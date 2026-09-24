@@ -3,9 +3,6 @@ Information Gathering Techiques
 
 # To perform information gathering techniques
 
-### NAME: BHUVANESH KUMAR
-### REG. NO: 212223040027
-
 # AIM:
 
 To perform information gathering techniques using kali linux 
